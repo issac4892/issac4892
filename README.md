@@ -1,11 +1,3 @@
-### 👋 I am issac4892 (심심하다) 
-
-
-> Currently I am learning...
- - Kotlin
- - C
- 
-> I am interested at...
- - Minecraft
+![Metrics](https://github.com/issac4892/issac4892/blob/master/github-metrics.svg)
  
 
