@@ -1,3 +1,3 @@
-![Metrics](https://github.com/issac4892/issac4892/blob/master/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/issac4892/issac4892/main/github-metrics.svg)
  
 
