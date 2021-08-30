@@ -2517,7 +2517,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spacebin-org/spirit</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2559,7 +2559,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>toptal/haste-server</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2639,7 +2639,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>files-community/Files</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2870,7 +2870,7 @@
                   <span class="prefix">Great</span> developer
                   
                     <span class="gh">
-                      ranked 823k out of 76m users
+                      ranked 824k out of 76m users
                     </span>
                   
                   
@@ -2888,7 +2888,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="69.79119709395611 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="69.80052613925355 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3378,7 +3378,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30/08/2021, 14:08 (timezone Asia/Seoul) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 30/08/2021, 15:12 (timezone Asia/Seoul) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
