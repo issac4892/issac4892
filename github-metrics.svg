@@ -2680,7 +2680,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Anarios/return-youtube-dislike</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2764,7 +2764,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nodesource/distributions</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3589,7 +3589,7 @@
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 9 Dec 2021, 22:19:33 (timezone Asia/Seoul) with lowlighter/metrics@3.16.0</span>
+                    <span>Last updated 9 Dec 2021, 23:10:39 (timezone Asia/Seoul) with lowlighter/metrics@3.16.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
