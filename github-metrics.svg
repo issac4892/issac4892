@@ -1414,7 +1414,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>discord-tickets/bot</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source and self-hosted ticket management bot for Discord - a free alternative to the premium and white-label plans of other popular ticketing bots.</div>
@@ -1854,7 +1854,7 @@ Java 17 링크 수정</span>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 497k out of 83m users</span>
+                                    <span class="gh">ranked 498k out of 83m users</span>
                                 </div>
                                 <div class="text">Published 46 public repositories</div>
                             </div>
@@ -2356,7 +2356,7 @@ Java 17 링크 수정</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jan 2022, 18:11:54 (timezone Asia/Seoul) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 11 Jan 2022, 19:12:45 (timezone Asia/Seoul) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
