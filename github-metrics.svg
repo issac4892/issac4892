@@ -1355,7 +1355,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>faker-js/faker</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate massive amounts of fake data in the browser and node.js</div>
@@ -2282,7 +2282,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jan 2022, 02:22:41 (timezone Asia/Seoul) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 19 Jan 2022, 03:13:33 (timezone Asia/Seoul) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
