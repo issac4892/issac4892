@@ -3,7 +3,7 @@ name: Metrics
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  # Lines below let you run workflow manually and on each
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
@@ -45,3 +45,5 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 4
           repositories_forks: yes
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.wakatime }}
